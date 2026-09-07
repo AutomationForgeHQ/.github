@@ -70,10 +70,10 @@ is added with one click, a paid one bought once. See
 |---|---|---|
 | [AutomationForge](https://github.com/AutomationForgeHQ/automation-forge) | The ledger, graduation rule and pipeline executor everything else plugs into; the in-editor Hub menu | Working |
 | [MotionForge](https://github.com/AutomationForgeHQ/MotionForge) | Text or a posed performance → an `AnimSequence` on your own skeleton, local, rented or hosted | Working (beta) |
-| [SpeechForge](https://github.com/AutomationForgeHQ/SpeechForge) | A written line → a timed `SoundWave`, on your own provider account | Working |
+| [SpeechForge](https://github.com/AutomationForgeHQ/SpeechForge) | A written line → a timed `SoundWave`, cast, localized and dubbed, on your own provider account | Working (beta) |
 | [FaceForge](https://github.com/AutomationForgeHQ/FaceForge) | Spoken audio → facial animation, solved locally or on NVIDIA Audio2Face, retargeted to your rig | Working |
 | [MontageForge](https://github.com/AutomationForgeHQ/MontageForge) | An animation sequence → a gameplay-ready montage, built from a recipe | Working |
-| [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt or reference image → a game-ready static mesh | Developer preview |
+| [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt or reference image → a game-ready static mesh, dressed with a fitted garment | Working (beta) |
 | [SurfaceForge](https://github.com/AutomationForgeHQ/SurfaceForge) | A prompt or reference image → PBR material candidates and Unreal material assets | New / developer preview |
 | [PerformanceForge](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) | A mic/webcam performance stage, end to end to a baked character take | Paid — flagship path |
 | [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemapToolset) | Leader-pose weight remapping across a whole folder of garments | Working |

@@ -76,7 +76,7 @@ is added with one click, a paid one bought once. See
 | [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt or reference image → a game-ready static mesh, dressed with a fitted garment | Working (beta) |
 | [SurfaceForge](https://github.com/AutomationForgeHQ/SurfaceForge) | A prompt or reference image → PBR material candidates and Unreal material assets | New / developer preview |
 | [PerformanceForge](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) | A mic/webcam performance stage, end to end to a baked character take | Paid — flagship path |
-| [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemapToolset) | Leader-pose weight remapping across a whole folder of garments | Working |
+| [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Leader-pose weight remapping across a whole folder of garments | Working |
 
 Goals, current features and honest status for each, in more depth:
 [docs/PLUGINS.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/PLUGINS.md).

@@ -51,9 +51,15 @@ Every plugin is one of three things, decided per plugin — never per project:
 
 | | Source | Cost | Where |
 |---|---|---|---|
-| **Open** | Public, in this organisation | Free | Here, and packaged on Fab |
-| **Fab** | Stays private | Free | Fab, and the account app |
-| **Paid** | Stays private | Paid | The account app, and Fab where listed |
+| **Open** | Public, in this organisation | Free | Here, and the account app |
+| **Fab** | Stays private | Free | The account app |
+| **Paid** | Stays private | Paid | The account app |
+
+The tier named **Fab** describes how a plugin is *licensed* — free to use,
+implementation closed — not where it is sold. Nothing is listed on Fab yet.
+Every plugin, whichever tier, is installed through the hub against an
+account; when Fab listings exist they will be linked from
+[kovati.dev](https://kovati.dev).
 
 **Free on your own hardware. Open where it counts.** The rule: if it runs on
 your machine and costs us nothing to operate, it stays open and useful on
@@ -68,7 +74,7 @@ is added with one click, a paid one bought once. See
 
 | Set | Goal | Status |
 |---|---|---|
-| [AutomationForge](https://github.com/AutomationForgeHQ/automation-forge) | The ledger, graduation rule and pipeline executor everything else plugs into; the in-editor Hub menu | Working |
+| [AutomationForge](https://github.com/AutomationForgeHQ/automation-forge) | The ledger, graduation rule and pipeline executor everything else plugs into; the in-editor Hub menu | Working developer preview |
 | [MotionForge](https://github.com/AutomationForgeHQ/MotionForge) | Text or a posed performance → an `AnimSequence` on your own skeleton, local, rented or hosted | Working (beta) |
 | [SpeechForge](https://github.com/AutomationForgeHQ/SpeechForge) | A written line → a timed `SoundWave`, cast, localized and dubbed, on your own provider account | Working (beta) |
 | [FaceForge](https://github.com/AutomationForgeHQ/FaceForge) | Spoken audio → facial animation, solved locally or on NVIDIA Audio2Face, retargeted to your rig | Working |

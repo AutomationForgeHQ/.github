@@ -4,7 +4,7 @@
 
 <h1 align="center">Automation Forge</h1>
 
-<p align="center"><b>Playable Ops for Unreal Engine 5.8.</b><br />
+<p align="center"><b>PlayableOps for Unreal Engine 5.8.</b><br />
 Motion, voice, faces, meshes and staging — generated in the editor, reviewed, placed on the right target, and traceable back to what made them.</p>
 
 <p align="center">
@@ -27,7 +27,7 @@ still has to fit a character, respect timing, carry gameplay events,
 survive review, and stay replaceable when the real work arrives.
 
 **Automation Forge** is a family of Unreal Engine plugins built for exactly
-that gap. We call the discipline **Playable Ops**: turning creative intent
+that gap. We call the discipline **PlayableOps**: turning creative intent
 into content that's playable, reviewable, traceable and replaceable — by a
 person, or by an agent working the same rules.
 
@@ -51,9 +51,15 @@ Every plugin is one of three things, decided per plugin — never per project:
 
 | | Source | Cost | Where |
 |---|---|---|---|
-| **Open** | Public, in this organisation | Free | Here, and packaged on Fab |
-| **Fab** | Stays private | Free | Fab, and the account app |
-| **Paid** | Stays private | Paid | The account app, and Fab where listed |
+| **Open** | Public, in this organisation | Free | Here, and the account app |
+| **Fab** | Stays private | Free | The account app |
+| **Paid** | Stays private | Paid | The account app |
+
+The tier named **Fab** describes how a plugin is *licensed* — free to use,
+implementation closed — not where it is sold. Nothing is listed on Fab yet.
+Every plugin, whichever tier, is installed through the hub against an
+account; when Fab listings exist they will be linked from
+[kovati.dev](https://kovati.dev).
 
 **Free on your own hardware. Open where it counts.** The rule: if it runs on
 your machine and costs us nothing to operate, it stays open and useful on
@@ -68,15 +74,15 @@ is added with one click, a paid one bought once. See
 
 | Set | Goal | Status |
 |---|---|---|
-| [AutomationForge](https://github.com/AutomationForgeHQ/automation-forge) | The ledger, graduation rule and pipeline executor everything else plugs into; the in-editor Hub menu | Working |
+| [AutomationForge](https://github.com/AutomationForgeHQ/automation-forge) | The ledger, graduation rule and pipeline executor everything else plugs into; the in-editor Hub menu | Working developer preview |
 | [MotionForge](https://github.com/AutomationForgeHQ/MotionForge) | Text or a posed performance → an `AnimSequence` on your own skeleton, local, rented or hosted | Working (beta) |
 | [SpeechForge](https://github.com/AutomationForgeHQ/SpeechForge) | A written line → a timed `SoundWave`, cast, localized and dubbed, on your own provider account | Working (beta) |
 | [FaceForge](https://github.com/AutomationForgeHQ/FaceForge) | Spoken audio → facial animation, solved locally or on NVIDIA Audio2Face, retargeted to your rig | Working |
 | [MontageForge](https://github.com/AutomationForgeHQ/MontageForge) | An animation sequence → a gameplay-ready montage, built from a recipe | Working |
 | [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt or reference image → a game-ready static mesh, dressed with a fitted garment | Working (beta) |
 | [SurfaceForge](https://github.com/AutomationForgeHQ/SurfaceForge) | A prompt or reference image → PBR material candidates and Unreal material assets | New / developer preview |
-| [PerformanceForge](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) | A mic/webcam performance stage, end to end to a baked character take | Paid — flagship path |
-| [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Leader-pose weight remapping across a whole folder of garments | Working |
+| [PerformanceForge](https://kovati.dev/plugins/performanceforge/) | A mic/webcam performance stage, end to end to a baked character take. Paid, so the core is closed; its [agent toolset](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) is open | Paid — flagship path |
+| [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Moves skin weights off bones a leader mesh never drives, so a garment can be leader-posed | Working |
 
 Goals, current features and honest status for each, in more depth:
 [docs/PLUGINS.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/PLUGINS.md).

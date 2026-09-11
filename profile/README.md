@@ -14,7 +14,8 @@ Motion, voice, faces, meshes and staging — generated in the editor, reviewed, 
   <a href="https://github.com/AutomationForgeHQ/automation-forge/tree/main/docs">Documentation</a> ·
   <a href="https://kovati.dev/whitepaper">Whitepaper</a> ·
   <a href="https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/MANIFESTO.md">Manifesto</a> ·
-  <a href="https://github.com/AutomationForgeHQ/releases/releases">Releases</a>
+  <a href="https://github.com/AutomationForgeHQ/releases/releases">Releases</a> ·
+  <a href="https://kovati.dev/discord">Discord community</a>
 </p>
 
 ---

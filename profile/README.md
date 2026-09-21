@@ -80,7 +80,7 @@ is added with one click, a paid one bought once. See
 | [SpeechForge](https://github.com/AutomationForgeHQ/SpeechForge) | A written line → a timed `SoundWave`, cast, localized and dubbed, on your own provider account | Working (beta) |
 | [FaceForge](https://github.com/AutomationForgeHQ/FaceForge) | Spoken audio → facial animation, solved locally or on NVIDIA Audio2Face, retargeted to your rig | Working |
 | [MontageForge](https://github.com/AutomationForgeHQ/MontageForge) | An animation sequence → a gameplay-ready montage, built from a recipe | Working |
-| [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt or reference image → a game-ready static mesh, dressed with a fitted garment | Working (beta) |
+| [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt, a picture or your own mesh → a game-ready static mesh, finished in Unreal or Blender; garments fitted to your character in the paid Garment Studio, with an open [agent toolset](https://github.com/AutomationForgeHQ/MeshForgeGarmentToolset) | Working (beta) |
 | [SurfaceForge](https://github.com/AutomationForgeHQ/SurfaceForge) | A prompt or reference image → PBR material candidates and Unreal material assets | New / developer preview |
 | [PerformanceForge](https://kovati.dev/plugins/performanceforge/) | A mic/webcam performance stage, end to end to a baked character take. Paid, so the core is closed; its [agent toolset](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) is open | Paid — flagship path |
 | [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Moves skin weights off bones a leader mesh never drives, so a garment can be leader-posed | Working |

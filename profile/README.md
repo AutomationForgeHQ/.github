@@ -11,7 +11,7 @@ Motion, voice, faces, meshes and staging — generated in the editor, reviewed, 
   <a href="https://kovati.dev">Site</a> ·
   <a href="https://kovati.dev/download">Download the hub</a> ·
   <a href="https://app.kovati.dev">Account</a> ·
-  <a href="https://github.com/AutomationForgeHQ/automation-forge/tree/main/docs">Documentation</a> ·
+  <a href="https://docs.kovati.dev">Documentation</a> ·
   <a href="https://kovati.dev/whitepaper">Whitepaper</a> ·
   <a href="https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/MANIFESTO.md">Manifesto</a> ·
   <a href="https://github.com/AutomationForgeHQ/releases/releases">Releases</a> ·
@@ -36,6 +36,19 @@ person, or by an agent working the same rules.
 > The game you cannot playtest is the game you never make.
 
 Read the short version in [docs/PLAYABLE-OPS.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/PLAYABLE-OPS.md), the values version in the [manifesto](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/MANIFESTO.md), or the long argument in the [whitepaper](https://kovati.dev/whitepaper).
+
+## The documentation
+
+**[docs.kovati.dev](https://docs.kovati.dev)** — the wiki. Every set, page by
+page: what it does, what it deliberately does not, the panels as they actually
+look, and the release notes of every plugin on its own searchable page.
+
+It is written against the source rather than from memory, and it says how far
+to trust each page: *documented in depth* means written against the code and
+used in production, *overview* means what it is and what it does, and nothing
+claims depth it has not got. No page types a version number — those are read
+from the same release manifest the hub installs from, so the wiki cannot
+disagree with what shipped.
 
 ## Who's behind it
 

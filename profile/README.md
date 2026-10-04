@@ -52,9 +52,9 @@ disagree with what shipped.
 
 ## Who's behind it
 
-**Kovati** is the product brand. **MetaWorx LLC** founded Kovati and holds
-its IP; **Blackcode SA** (Switzerland) backs it and currently runs the
-infrastructure the account and the plugins' cloud services sit on.
+**Kovati** is the product brand. **MetaWorx LLC** founded Kovati, holds its
+IP (© Bojan Andrejek / MetaWorx LLC) and runs the infrastructure the account
+and the plugins' cloud services sit on. No other company has a stake in it.
 Automation Forge is developed and dogfooded inside **Colony Origins**, a
 real Unreal Engine production — the whitepaper exists because the people
 making these tools still have to make the same game the tools are meant to
@@ -116,4 +116,4 @@ Goals, current features and honest status for each, in more depth:
 
 Unreal Engine is a trademark of Epic Games, Inc.; Automation Forge is an independent product and is not endorsed by Epic Games, Inc.
 
-Questions: [bojan@blackcode.ch](mailto:bojan@blackcode.ch)
+Questions: [bojan@kovati.dev](mailto:bojan@kovati.dev)

@@ -5,7 +5,7 @@
 <h1 align="center">Automation Forge</h1>
 
 <p align="center"><b>PlayableOps for Unreal Engine 5.8.</b><br />
-Motion, voice, faces, meshes and staging — generated in the editor, reviewed, placed on the right target, and traceable back to what made them.</p>
+Motion, voice, faces, meshes, terrain and staging — generated in the editor, reviewed, placed on the right target, and traceable back to what made them.</p>
 
 <p align="center">
   <a href="https://kovati.dev">Site</a> ·
@@ -96,6 +96,7 @@ is added with one click, a paid one bought once. See
 | [MontageForge](https://github.com/AutomationForgeHQ/MontageForge) | An animation sequence → a gameplay-ready montage, built from a recipe | Working |
 | [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt, a picture or your own mesh → a game-ready static mesh, finished in Unreal or Blender; garments fitted to your character in the paid Garment Studio, with an open [agent toolset](https://github.com/AutomationForgeHQ/MeshForgeGarmentToolset) | Working (beta) |
 | [SurfaceForge](https://github.com/AutomationForgeHQ/SurfaceForge) | A prompt or reference image → PBR material candidates and Unreal material assets | New / developer preview |
+| [TerrainForge](https://kovati.dev/plugins/terrainforge/) | A node graph, or a real place picked on a map → an eroded, watered World Partition level with paint layers, lakes and rivers; real-world elevation, land cover and OpenStreetMap data built in, the heaviest simulation on the GPU. Paid, and free for now during the preview; its [agent toolset](https://github.com/AutomationForgeHQ/TerrainForgeToolset) is open | New / preview |
 | [PerformanceForge](https://kovati.dev/plugins/performanceforge/) | A mic/webcam performance stage, end to end to a baked character take. Paid, so the core is closed; its [agent toolset](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) is open | Paid — flagship path |
 | [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Moves skin weights off bones a leader mesh never drives, so a garment can be leader-posed | Working |
 

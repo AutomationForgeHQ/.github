@@ -1,120 +1,104 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AutomationForgeHQ/automation-forge/main/docs/icon-256.png" width="96" alt="" />
+  <a href="https://kovati.dev"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/hero.jpg" width="100%" alt="Kovati: characters, animation, worlds and stories for your Unreal game" /></a>
 </p>
 
-<h1 align="center">Automation Forge</h1>
+<h1 align="center">Kovati</h1>
 
-<p align="center"><b>PlayableOps for Unreal Engine 5.8.</b><br />
-Motion, voice, faces, meshes, terrain and staging — generated in the editor, reviewed, placed on the right target, and traceable back to what made them.</p>
+<p align="center"><b>Production tools for Unreal games.</b><br />
+Characters, animation, worlds and stories, made inside the editor.<br />
+Every step works by hand. AI and agents are there when you want them.</p>
 
 <p align="center">
-  <a href="https://kovati.dev">Site</a> ·
-  <a href="https://kovati.dev/download">Download the hub</a> ·
-  <a href="https://app.kovati.dev">Account</a> ·
+  <a href="https://kovati.dev"><b>Site</b></a> ·
+  <a href="https://kovati.dev/download/"><b>Start free</b></a> ·
   <a href="https://docs.kovati.dev">Documentation</a> ·
-  <a href="https://kovati.dev/whitepaper">Whitepaper</a> ·
-  <a href="https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/MANIFESTO.md">Manifesto</a> ·
-  <a href="https://github.com/AutomationForgeHQ/releases/releases">Releases</a> ·
-  <a href="https://kovati.dev/discord">Discord community</a> ·
+  <a href="https://youtu.be/mQxh0G-KyII">Trailer</a> ·
+  <a href="https://kovati.dev/discord">Discord</a> ·
   <a href="https://x.com/kovatidev">X</a>
 </p>
 
 ---
 
-## What this is
+## Four things your game needs
 
-AI made a candidate cheap — an animation, a voice take, a face solve, a
-mesh, in minutes. It didn't make that candidate part of a game: the result
-still has to fit a character, respect timing, carry gameplay events,
-survive review, and stay replaceable when the real work arrives.
+<table>
+  <tr>
+    <td width="25%"><a href="https://kovati.dev/characters/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-characters.jpg" alt="Characters: look, dress, hair and skin" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/animation/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-animation.jpg" alt="Animation: motion from a sentence, capture and gameplay clips" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/worldbuilding/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-worldbuilding.jpg" alt="Worldbuilding: terrain, real places, interiors and props" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/storytelling/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-storytelling.jpg" alt="Storytelling: voices, faces, dialogue and localisation" /></a></td>
+  </tr>
+</table>
 
-**Automation Forge** is a family of Unreal Engine plugins built for exactly
-that gap. We call the discipline **PlayableOps**: turning creative intent
-into content that's playable, reviewable, traceable and replaceable — by a
-person, or by an agent working the same rules.
+Each track is one result and a set of tools for it. You choose which tools to use, and how: by hand in their own panels, with AI doing a step, or with an agent driving the same tools you would.
 
-> The game you cannot playtest is the game you never make.
+## Made for a real game
 
-Read the short version in [docs/PLAYABLE-OPS.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/PLAYABLE-OPS.md), the values version in the [manifesto](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/MANIFESTO.md), or the long argument in the [whitepaper](https://kovati.dev/whitepaper).
+<p align="center">
+  <a href="https://kovati.dev/colony/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/game.jpg" width="100%" alt="Colony: Filed at Dawn, made with these tools" /></a>
+</p>
 
-## The documentation
+Every tool here started as a problem in our own game. In November 2026 we entered the Epic MegaJam with them and shipped **Colony: Filed at Dawn**: one person, 3.5 days, about an hour of play, with 66 voiced dialogues.
 
-**[docs.kovati.dev](https://docs.kovati.dev)** — the wiki. Every set, page by
-page: what it does, what it deliberately does not, the panels as they actually
-look, and the release notes of every plugin on its own searchable page.
+<p align="center">
+  <a href="https://youtu.be/mQxh0G-KyII"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/game-loop.webp" width="100%" alt="Shots from Colony: Filed at Dawn: a dropship lands at night and a man walks to a lit door" /></a>
+</p>
 
-It is written against the source rather than from memory, and it says how far
-to trust each page: *documented in depth* means written against the code and
-used in production, *overview* means what it is and what it does, and nothing
-claims depth it has not got. No page types a version number — those are read
-from the same release manifest the hub installs from, so the wiki cannot
-disagree with what shipped.
+<p align="center">
+  <a href="https://kovatidev.itch.io/colony-filed-at-dawn"><b>Play it free on itch.io</b></a> ·
+  <a href="https://youtu.be/mQxh0G-KyII">Watch the trailer (1 min)</a> ·
+  <a href="https://youtu.be/bGjJnmHoOHw">Watch the devlog (16 min)</a>
+</p>
 
-## Who's behind it
+## The tools
 
-**Kovati** is the product brand. **MetaWorx LLC** founded Kovati, holds its
-IP (© Bojan Andrejek / MetaWorx LLC) and runs the infrastructure the account
-and the plugins' cloud services sit on. No other company has a stake in it.
-Automation Forge is developed and dogfooded inside **Colony Origins**, a
-real Unreal Engine production — the whitepaper exists because the people
-making these tools still have to make the same game the tools are meant to
-unblock.
-
-## Open, Fab and paid
-
-Every plugin is one of three things, decided per plugin — never per project:
-
-| | Source | Cost | Where |
+| Track | Tool | What you get | Source |
 |---|---|---|---|
-| **Open** | Public, in this organisation | Free | Here, and the account app |
-| **Fab** | Stays private | Free | The account app |
-| **Paid** | Stays private | Paid | The account app |
+| **Characters** | [MeshForge Garment](https://kovati.dev/tools/meshforge/) | One outfit, fitted to every body | Paid · [agent toolset](https://github.com/AutomationForgeHQ/MeshForgeGarmentToolset) |
+| | [SkinForge](https://kovati.dev/tools/skinforge/) | Scars, tattoos and marks, exactly where you want them | Paid, with a free Lite tier · [agent toolset](https://github.com/AutomationForgeHQ/SkinForgeToolset) |
+| | [MeshWeightRemap](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Any garment follows any body | [Open](https://github.com/AutomationForgeHQ/MeshWeightRemap) |
+| **Animation** | [MotionForge](https://kovati.dev/tools/motionforge/) | Type a motion. Watch your character do it | [Open](https://github.com/AutomationForgeHQ/MotionForge) |
+| | [MontageForge](https://kovati.dev/tools/montageforge/) | From a clip to a move your gameplay can play | [Open](https://github.com/AutomationForgeHQ/MontageForge) |
+| **Worldbuilding** | [TerrainForge](https://kovati.dev/tools/terrainforge/) | Real or imagined terrain, built in your level | Paid, with a free Lite tier · [agent toolset](https://github.com/AutomationForgeHQ/TerrainForgeToolset) |
+| | [MeshForge](https://kovati.dev/tools/meshforge/) | Props, gear and outfits, made in Unreal | [Open](https://github.com/AutomationForgeHQ/MeshForge) |
+| | [SurfaceForge](https://kovati.dev/tools/surfaceforge/) | Say the surface. Keep the one you like | [Open](https://github.com/AutomationForgeHQ/SurfaceForge) |
+| **Storytelling** | [SpeechForge](https://kovati.dev/tools/speechforge/) | Every line in your game, spoken | [Open](https://github.com/AutomationForgeHQ/SpeechForge) |
+| | [FaceForge](https://kovati.dev/tools/faceforge/) | A face that moves with every line | [Open](https://github.com/AutomationForgeHQ/FaceForge) |
+| | [PerformanceForge](https://kovati.dev/tools/performanceforge/) | Act the scene yourself, and your character plays it | Paid · [agent toolset](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) |
+| **For teams** | [Automation Forge](https://github.com/AutomationForgeHQ/automation-forge) | Run your tools as one pipeline, with every result on record | [Agent toolset](https://github.com/AutomationForgeHQ/AutomationForgeToolset) |
 
-The tier named **Fab** describes how a plugin is *licensed* — free to use,
-implementation closed — not where it is sold. Nothing is listed on Fab yet.
-Every plugin, whichever tier, is installed through the hub against an
-account; when Fab listings exist they will be linked from
-[kovati.dev](https://kovati.dev).
+What each one does today, and where its edges are: [docs.kovati.dev](https://docs.kovati.dev).
 
-**Free on your own hardware. Open where it counts.** The rule: if it runs on
-your machine and costs us nothing to operate, it stays open and useful on
-its own. Paid value begins only where we operate something on your behalf —
-see [docs/DISTRIBUTION.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/DISTRIBUTION.md) for why every plugin landed where it did, and every plugin's link.
+## Start free
 
-Whichever tier, nothing installs without an account first — a free plugin
-is added with one click, a paid one bought once. See
-[docs/ACCOUNTS.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/ACCOUNTS.md).
+1. **[Download the Kovati Hub](https://kovati.dev/download/)**. It is one free app that installs and updates every tool you own, for Unreal Engine 5.8.
+2. **Sign in** with a free account.
+3. **Install a tool** with one click, and open it from the editor's **Tools** menu.
 
-## The Forge sets
+## Open source
 
-| Set | Goal | Status |
-|---|---|---|
-| [AutomationForge](https://github.com/AutomationForgeHQ/automation-forge) | The ledger, graduation rule and pipeline executor everything else plugs into; the in-editor Hub menu | Working developer preview |
-| [MotionForge](https://github.com/AutomationForgeHQ/MotionForge) | Text or a posed performance → an `AnimSequence` on your own skeleton, local, rented or hosted | Working (beta) |
-| [SpeechForge](https://github.com/AutomationForgeHQ/SpeechForge) | A written line → a timed `SoundWave`, cast, localized and dubbed, on your own provider account | Working (beta) |
-| [FaceForge](https://github.com/AutomationForgeHQ/FaceForge) | Spoken audio → facial animation, solved locally or on NVIDIA Audio2Face, retargeted to your rig | Working |
-| [MontageForge](https://github.com/AutomationForgeHQ/MontageForge) | An animation sequence → a gameplay-ready montage, built from a recipe | Working |
-| [MeshForge](https://github.com/AutomationForgeHQ/MeshForge) | A prompt, a picture or your own mesh → a game-ready static mesh, finished in Unreal or Blender; garments fitted to your character in the paid Garment Studio, with an open [agent toolset](https://github.com/AutomationForgeHQ/MeshForgeGarmentToolset) | Working (beta) |
-| [SurfaceForge](https://github.com/AutomationForgeHQ/SurfaceForge) | A prompt or reference image → PBR material candidates and Unreal material assets | New / developer preview |
-| [TerrainForge](https://kovati.dev/plugins/terrainforge/) | A node graph, or a real place picked on a map → an eroded, watered World Partition level with paint layers, lakes and rivers; real-world elevation, land cover and OpenStreetMap data built in, the heaviest simulation on the GPU. Paid, and free for now during the preview; its [agent toolset](https://github.com/AutomationForgeHQ/TerrainForgeToolset) is open | New / preview |
-| [PerformanceForge](https://kovati.dev/plugins/performanceforge/) | A mic/webcam performance stage, end to end to a baked character take. Paid, so the core is closed; its [agent toolset](https://github.com/AutomationForgeHQ/PerformanceForgeToolset) is open | Paid — flagship path |
-| [Tools](https://github.com/AutomationForgeHQ/MeshWeightRemap) | Moves skin weights off bones a leader mesh never drives, so a garment can be leader-posed | Working |
+- **28 of our 43 plugins are open source** under Apache-2.0, one repository each in this organisation.
+- **150 public releases** since August 2026, every one with checksums, on [`releases`](https://github.com/AutomationForgeHQ/releases).
+- **Every tool works with agents.** Each one has a toolset that gives an agent the same operations a person has in the panel, built on Unreal's own Model Context Protocol support. The toolsets are open, including the ones for our paid tools.
 
-Goals, current features and honest status for each, in more depth:
-[docs/PLUGINS.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/PLUGINS.md).
+Paid tools are sold on [kovati.dev](https://kovati.dev) and delivered through the Hub. How each plugin ended up open or paid: [DISTRIBUTION.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/DISTRIBUTION.md).
 
 ## Repositories
 
-- [`automation-forge`](https://github.com/AutomationForgeHQ/automation-forge) — the hub, the `forge` command line, the release manifest, and this documentation. Start here.
-- [`releases`](https://github.com/AutomationForgeHQ/releases) — every plugin build, per engine version, with checksums.
-- Every open plugin's source, one repository each — indexed by set in [docs/DISTRIBUTION.md](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/DISTRIBUTION.md), or just browse this organisation's repositories directly.
+- [`automation-forge`](https://github.com/AutomationForgeHQ/automation-forge): the Kovati Hub, the `forge` command line and the release manifest. Start here if you want to see how installs work.
+- [`releases`](https://github.com/AutomationForgeHQ/releases): every plugin build, per engine version.
+- [`kovati-docs`](https://github.com/AutomationForgeHQ/kovati-docs): the source of [docs.kovati.dev](https://docs.kovati.dev).
+- One repository per open plugin. Browse them in this organisation, or by tool in the table above.
+- [`kovati-companion`](https://github.com/AutomationForgeHQ/kovati-companion): the recording app for Kovati Studio, our video workspace.
 
-## Also from Kovati
+## Who is behind it
 
-[`kovati-companion`](https://github.com/AutomationForgeHQ/kovati-companion) is the recording app for **Kovati Studio**, a separate video-production workspace. It isn't part of Automation Forge — it lives in this organisation because Kovati ships it too.
+**Kovati** is built by Bojan Andrejek and owned by **MetaWorx LLC**, which holds the IP and runs the infrastructure behind the account and the cloud services. The tools are made and used daily in **Colony: New Origins**, our own Unreal Engine game.
+
+The thinking behind the tools, for those who want it: [PlayableOps in short](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/PLAYABLE-OPS.md), the [manifesto](https://github.com/AutomationForgeHQ/automation-forge/blob/main/docs/MANIFESTO.md) and the [whitepaper](https://kovati.dev/whitepaper).
 
 ---
 
-Unreal Engine is a trademark of Epic Games, Inc.; Automation Forge is an independent product and is not endorsed by Epic Games, Inc.
+Unreal Engine is a trademark of Epic Games, Inc. Kovati is an independent product and is not endorsed by Epic Games, Inc.
 
 Questions: [bojan@kovati.dev](mailto:bojan@kovati.dev)

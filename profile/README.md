@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kovati.dev"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/hero.jpg" width="100%" alt="Kovati: characters, animation, worlds and stories for your Unreal game" /></a>
+  <a href="https://kovati.dev"><img src="assets/hero.jpg" width="100%" alt="Kovati: characters, animation, worlds and stories for your Unreal game" /></a>
 </p>
 
 <h1 align="center">Kovati</h1>
@@ -23,10 +23,10 @@ Every step works by hand. AI and agents are there when you want them.</p>
 
 <table>
   <tr>
-    <td width="25%"><a href="https://kovati.dev/characters/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-characters.jpg" alt="Characters: look, dress, hair and skin" /></a></td>
-    <td width="25%"><a href="https://kovati.dev/animation/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-animation.jpg" alt="Animation: motion from a sentence, capture and gameplay clips" /></a></td>
-    <td width="25%"><a href="https://kovati.dev/worldbuilding/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-worldbuilding.jpg" alt="Worldbuilding: terrain, real places, interiors and props" /></a></td>
-    <td width="25%"><a href="https://kovati.dev/storytelling/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/track-storytelling.jpg" alt="Storytelling: voices, faces, dialogue and localisation" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/characters/"><img src="assets/track-characters.jpg" alt="Characters: look, dress, hair and skin" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/animation/"><img src="assets/track-animation.jpg" alt="Animation: motion from a sentence, capture and gameplay clips" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/worldbuilding/"><img src="assets/track-worldbuilding.jpg" alt="Worldbuilding: terrain, real places, interiors and props" /></a></td>
+    <td width="25%"><a href="https://kovati.dev/storytelling/"><img src="assets/track-storytelling.jpg" alt="Storytelling: voices, faces, dialogue and localisation" /></a></td>
   </tr>
 </table>
 
@@ -35,13 +35,13 @@ Each track is one result and a set of tools for it. You choose which tools to us
 ## Made for a real game
 
 <p align="center">
-  <a href="https://kovati.dev/colony/"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/game.jpg" width="100%" alt="Colony: Filed at Dawn, made with these tools" /></a>
+  <a href="https://kovati.dev/colony/"><img src="assets/game.jpg" width="100%" alt="Colony: Filed at Dawn, made with these tools" /></a>
 </p>
 
 Every tool here started as a problem in our own game. In November 2026 we entered the Epic MegaJam with them and shipped **Colony: Filed at Dawn**: one person, 3.5 days, about an hour of play, with 66 voiced dialogues.
 
 <p align="center">
-  <a href="https://youtu.be/mQxh0G-KyII"><img src="https://raw.githubusercontent.com/AutomationForgeHQ/.github/main/profile/assets/game-loop.webp" width="100%" alt="Shots from Colony: Filed at Dawn: a dropship lands at night and a man walks to a lit door" /></a>
+  <a href="https://youtu.be/mQxh0G-KyII"><img src="assets/game-loop.webp" width="100%" alt="Shots from Colony: Filed at Dawn: a dropship lands at night and a man walks to a lit door" /></a>
 </p>
 
 <p align="center">
